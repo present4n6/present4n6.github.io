@@ -1,6 +1,5 @@
 ---
 title: Upload Test
-layout: post
 comments: true
 author: Present4n6
 date: 2020-09-17 19:45:00 +0800

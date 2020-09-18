@@ -1,10 +1,9 @@
 ---
-title: Present4n6 Log
+title: Present4n6   Logs
 
 
 ---
 
-# \*\*Present4n6\*\*
 
 ### \*\*Digital Forensic Researcher/Study\*\*
 

@@ -1,22 +1,22 @@
 ---
-title: About
+title: Present4n6 Log
 
 
 ---
 
-# Present4n6
+# Present4n6**
 
-### Digital Forensic Researcher/Study
+### Digital Forensic Researcher/Study**
 
-디지털 포렌식에 관심이 많으며 주로 공부하고 있습니다.^^
+디지털 포렌식에 관심이 많으며 주로 공부하고 있습니다.^^<br>
 포스팅한 내용에 오류가 있을 시 알려주시면 감사하겠습니다.
 
 
-📧 E-mail : phj100297 &at naver.com / phj971002 &at gmail.com
+📧 E-mail : phj100297 &at naver.com
 
 ---
 
-# 🏆 Prize
+# 🏆 Prize**
 
 - 제 3회 SW개발보안 경진대회 최우수상(행정자치부장관상) 수상
 
@@ -24,7 +24,7 @@ title: About
 
 ---
 
-# 📢 Presentation
+# 📢 Presentation**
 
 - 제 10회 시원포럼 (FAT32와 NTFS 파일시스템 파티션 복구 기법 차이)
 
@@ -36,7 +36,7 @@ title: About
 
 ---
 
-# 💼 했던것들..
+# 💼 Footprints..**
 
 - 교육부 주관 정보보호영재교육 1기 수료 (대구대학교 정보보호영재교육원)
 
@@ -88,9 +88,9 @@ title: About
 
 ---
 
-# 😎 Honorable Career
+# 😎 Honorable Career**
 
-- 6성 장병 치하 행사 선발
+- 48th 6성 장병 치하 행사 선발
 
     [48 Years of Lasting Memories from USO Korea's Six Star Salute](https://korea.stripes.com/community-news/48-years-lasting-memories-uso-korea%E2%80%99s-six-star-salute)
 

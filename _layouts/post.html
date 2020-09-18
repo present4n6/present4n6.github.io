@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 # The posts' layout
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
@@ -72,9 +71,6 @@ comments: true
           {{ content | replace: '<img src=', '<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src=' }}
         {% else %}
           {{ content }}
-          {% if site.disqus.shortname %}
-          {%   include disqus.html %}
-          {% endif %}
         {% endif %}
       </div>
 

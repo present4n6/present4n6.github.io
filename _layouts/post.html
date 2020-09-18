@@ -71,6 +71,9 @@ layout: default
           {{ content | replace: '<img src=', '<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src=' }}
         {% else %}
           {{ content }}
+          {% if site.disqus.shortname %}
+          {%  include disqus.html %}
+          {% endif %}
         {% endif %}
       </div>
 

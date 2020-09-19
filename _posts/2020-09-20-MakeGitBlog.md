@@ -42,14 +42,18 @@ tistory, github, velog, notion, naver 등이 있습니다.
 * 깃허브 블로그를 만들기 위해서는 깃허브와 연동을 해야 합니다.  
 깃허브와 연동을 하기 위해서는 레파지토리를 생성해줘야 합니다.  
 
-![upload-image](/assets/post/makegitblog/1.png)
+![upload-image](/assets/post/makegitblog/1.png)  
 
+그 후 Repository name에 Owner(본인 ID).github.io 로 입력합니다.  
+또한 Initialize this repository with: 에 Add a README file 을 체크해줍니다.  
 
+![upload-image](/assets/post/makegitblog/2.png)  
 
+이 과정을 잘 완료했다면 웹 주소 창에 ID.github.io 로 검색을 해보면 창이 뜨는 것을 확인할 수 있습니다.  
 
+![upload-image](/assets/post/makegitblog/3.png)  
 
-
-
+이어서 Clone and Download 혹은 Code 버튼을 누르면 주소가 나오는데 그 주소를 복사합니다.
 
 
 

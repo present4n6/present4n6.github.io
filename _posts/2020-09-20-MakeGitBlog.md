@@ -44,20 +44,30 @@ tistory, github, velog, notion, naver 등이 있습니다.
 
 ![upload-image](/assets/post/makegitblog/1.png)  
 
-그 후 Repository name에 Owner(본인 ID).github.io 로 입력합니다.  
+* 그 후 Repository name에 Owner(본인 ID).github.io 로 입력합니다.  
 또한 Initialize this repository with: 에 Add a README file 을 체크해줍니다.  
 
 ![upload-image](/assets/post/makegitblog/2.png)  
 
-이 과정을 잘 완료했다면 웹 주소 창에 ID.github.io 로 검색을 해보면 창이 뜨는 것을 확인할 수 있습니다.  
+* 이 과정을 잘 완료했다면 웹 주소 창에 ID.github.io 로 검색을 해보면 창이 뜨는 것을 확인할 수 있습니다.  
+이어서 Clone and Download 버튼을 누르면 주소가 나오는데 그 주소를 복사합니다.(저는 테스트로 만들어서 Code라고 뜹니다)  
 
 ![upload-image](/assets/post/makegitblog/3.png)  
 
-이어서 Clone and Download 혹은 Code 버튼을 누르면 주소가 나오는데 그 주소를 복사합니다.
+그리고 Git 이 설치되어 있어야 하는데 설치를 안 하신 분들은 <https://git-scm.com/> 에서 할 수 있습니다.  
+설치 파일을 실행하고 쭉 Next 넘기시면 됩니다.  
 
+![upload-image](/assets/post/makegitblog/4.png) 
 
+Git이 설치되어 있으신 분들은 다음과 같이 입력하면 됩니다.
 
+```console
+$ cd [Repository를 저장할 폴더]
+$ git clone [복사했던 주소]
+```  
+잘 진행했다면 해당 경로에 다음과 같이 레파지토리가 생성된 것을 확인할 수 있습니다.  
 
+![upload-image](/assets/post/makegitblog/5.png) 
 
 
 

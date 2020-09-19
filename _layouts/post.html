@@ -59,9 +59,7 @@ layout: default
         {% endif %}
 
       </div> <!-- .post-meta -->
-      <div id="post-disqus" class="container">
-      {% include disqus.html %}
-      </div>
+
       <div class="post-content">
 
         {% if page.image %}
@@ -73,9 +71,10 @@ layout: default
           {{ content | replace: '<img src=', '<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src=' }}
         {% else %}
           {{ content }}
+          {%  include disqus.html %}
         {% endif %}
       </div>
-      
+
       <div class="post-tail-wrapper text-muted">
 
         <!-- categories -->

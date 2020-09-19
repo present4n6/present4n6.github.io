@@ -133,8 +133,9 @@ layout: default
 
     {% include post-nav.html %}
 
-    
-    {% include disqus.html %}
+    {% if site.disqus.comments and page.comments %}
+      {% include disqus.html %}
+    {% end if %}
     
 
     </div> <!-- #post-extend-wrapper -->

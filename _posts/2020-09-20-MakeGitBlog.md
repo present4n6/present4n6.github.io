@@ -59,7 +59,7 @@ tistory, github, velog, notion, naver 등이 있습니다.
 
 ![upload-image](/assets/post/makegitblog/4.png) 
 
-Git이 설치되어 있으신 분들은 다음과 같이 입력하면 됩니다.
+Git이 설치되어 있으신 분들은 Git Bash를 실행하고 다음과 같이 입력하면 됩니다.
 
 ```console
 $ cd [Repository를 저장할 폴더]

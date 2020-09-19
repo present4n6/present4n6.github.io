@@ -38,7 +38,7 @@ tistory, github, velog, notion, naver 등이 있습니다.
 
 ## **깃허브 블로그 만들기**  
 
-1. 깃허브 레파지토리 생성하기
+### **1. 깃허브 레파지토리 생성하기**
 * 깃허브 블로그를 만들기 위해서는 깃허브와 연동을 해야 합니다.  
 깃허브와 연동을 하기 위해서는 레파지토리를 생성해줘야 합니다.  
 
@@ -54,12 +54,12 @@ tistory, github, velog, notion, naver 등이 있습니다.
 
 ![upload-image](/assets/post/makegitblog/3.png)  
 
-그리고 Git 이 설치되어 있어야 하는데 설치를 안 하신 분들은 <https://git-scm.com/> 에서 할 수 있습니다.  
+* 그리고 Git 이 설치되어 있어야 하는데 설치를 안 하신 분들은 <https://git-scm.com/> 에서 할 수 있습니다.  
 설치 파일을 실행하고 쭉 Next 넘기시면 됩니다.  
 
 ![upload-image](/assets/post/makegitblog/4.png) 
 
-Git이 설치되어 있으신 분들은 Git Bash를 실행하고 다음과 같이 입력하면 됩니다.
+* Git이 설치되어 있으신 분들은 Git Bash를 실행하고 다음과 같이 입력하면 됩니다.
 
 ```console
 $ cd [Repository를 저장할 폴더]
@@ -68,10 +68,36 @@ $ git clone [복사했던 주소]
 잘 진행했다면 해당 경로에 다음과 같이 레파지토리가 생성된 것을 확인할 수 있습니다.  
 
 ![upload-image](/assets/post/makegitblog/5.png) 
+* * *
 
+### **2. 깃허브 블로그 테마 입히기**  
 
+* 깃허브 블로그는 깃허브에 올린 소스코드가 작동해서 보여주는 원리입니다.  
+따라서 사용자가 소스코드를 마음대로 바꿀 수 있다는 장점이 있습니다.  
+그렇다고 無에서 하나하나 개발할 필요는 없습니다.  
+Jekyll 라는 미리 만들어져 있는 테마를 가져와서 입맛에 맞게 수정해주면 됩니다.  
+<http://jekyllthemes.org/>  
 
+* 위 링크에서 여러 개의 테마를 확인할 수 있습니다.  
 
+![upload-image](/assets/post/makegitblog/6.png) 
+
+* 마음에 드는 테마를 고른 후 소스코드 파일을 다운로드해서 압축을 해제하고 만들었던 레파지토리 폴더에 복사해서 붙여줍니다.  
+
+![upload-image](/assets/post/makegitblog/7.png) 
+
+* 레파지토리에 파일을 넣었다면 다음과 같이 입력해서 Github에 파일이 연동될 수 있도록 commit 해줘야 합니다.  
+
+```console
+$ cd [Repository를 저장할 폴더]
+$ git add .
+$ git commit -m '메시지 입력'
+$ git push origin master
+```  
+* \_config.yml 파일에서 블로그의 주소를 지정해주어야 한다.  
+이 외에도 여러가지 소스코드들을 보고 본인 입맛대로 수정해서 커스터마이징하면 된다.  
+
+![upload-image](/assets/post/makegitblog/8.png) 
 
 
 

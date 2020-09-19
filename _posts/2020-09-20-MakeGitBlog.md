@@ -3,7 +3,7 @@ title: GitHub 블로그 따라하며 쉽게 만들기 - jekyll 사용
 comments: true
 author: Present4n6
 categories: [GitHub, GithubBlog]
-date: 2019-09-20 00:36:00 +0900
+date: 2020-09-20 00:36:00 +0900
 tags: [GitHub,GitHubBlog]
 math: true
 ---

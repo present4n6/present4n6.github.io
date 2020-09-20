@@ -13,9 +13,7 @@ title: Present4n6                          # the main title
 tagline: 디지털포렌식 정보 공유하고 있습니다. 아래에서 Dark mode 적용가능합니다.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  안녕하세요, 디지털 포렌식 관련 정보 공유 및 기술 블로그입니다^^ 개념 정리 및 CTF 문제 풀이, 문제 제작 과정 등을 포스팅하고 있습니다.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://present4n6.github.io/'

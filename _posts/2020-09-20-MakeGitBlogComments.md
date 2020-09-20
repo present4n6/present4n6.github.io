@@ -3,6 +3,7 @@ title: GitHub 블로그 따라하며 쉽게 만들기(2) - disqus 사용해서 �
 comments: true
 author: Present4n6
 categories: [test, test2]
+date: 2020-09-20 02:36:00 +0900
 tags: [test123]
 math: true
 ---

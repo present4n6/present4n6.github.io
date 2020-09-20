@@ -1,5 +1,5 @@
 ---
-title: GitHub 블로그 따라하며 쉽게 만들기(1) - jekyll 사용
+title: GitHub 블로그 따라하며 쉽게 만들기(1) - jekyll 사용해서 테마 입히기
 comments: true
 author: Present4n6
 categories: [GitHub, GithubBlog]

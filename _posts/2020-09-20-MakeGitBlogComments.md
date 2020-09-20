@@ -60,10 +60,7 @@ tistory, github, velog, notion, naver 등이 있습니다.
 
 * Git 설치가 완료되었으면 Git Bash를 실행하고 다음과 같이 입력하면 됩니다.  
 
-```console
-$ cd [Repository를 저장할 폴더]
-$ git clone [복사했던 주소]
-```  
+ 
 * 잘 진행했다면 해당 경로에 다음과 같이 레파지토리가 생성된 것을 확인할 수 있습니다.  
 
 ![upload-image](/assets/post/makegitblog/5.png) 
@@ -88,12 +85,7 @@ Jekyll 라는 미리 만들어져 있는 테마를 가져와서 입맛에 맞게
 
 * 레파지토리에 파일을 넣었다면 다음과 같이 입력해서 Github에 파일이 연동될 수 있도록 commit 해줘야 합니다.  
 
-```console
-$ cd [Repository 폴더 위치]
-$ git add .
-$ git commit -m '메시지 입력'
-$ git push origin master
-```  
+
 * \_config.yml 파일에서 블로그의 주소를 지정해주어야 합니다.  
 이 외에도 여러가지 소스코드들을 보고 본인 입맛대로 수정해서 커스터마이징하면 됩니다. 
 블로그의 주소를 입력하고 commit을 했다면 블로그에 접속했을 때 테마가 적용된 것을 확인할 수 있을 것입니다.   

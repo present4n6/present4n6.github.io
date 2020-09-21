@@ -7,7 +7,7 @@
 [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)
 [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
 
-안녕하세요, 디지털 포렌식 관련 정보 공유 및 기술 블로그입니다^^ 개념 정리 및 CTF 문제 풀이, 문제 제작 과정 등을 포스팅하고 있습니다. [Live Demo »](https://chirpy.cotes.info)
+안녕하세요, 디지털 포렌식 관련 정보 공유 및 기술 블로그입니다.^^ 개념 정리 및 CTF 문제 풀이, CTF 문제 제작 과정, 논문 요약, 디지털 포렌식 이슈 등을 포스팅하고 있습니다. [Live Demo »](https://chirpy.cotes.info)
 
 [![Devices Mockup](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/assets/img/sample/devices-mockup.png)](https://chirpy.cotes.info)
 

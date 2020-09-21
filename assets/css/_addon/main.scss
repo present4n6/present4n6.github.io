@@ -85,7 +85,7 @@ $sidebar-display: "sidebar-display";
   .site-title {
     text-align: center;
     a {
-      // color: var(--site-title-color);
+      color: #ededed;
       font-weight: 900;
       font-size: 1.5rem;
       letter-spacing: .5px;
@@ -99,7 +99,7 @@ $sidebar-display: "sidebar-display";
   .site-subtitle {
     font-size: 95%;
     text-align: center;
-    color: #828282;
+    color: #cfcfcf;
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: .5rem 1.5rem 2rem 1.5rem;
@@ -120,12 +120,12 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: #ededed;
       }
     }
     &.active {
       .nav-link {
-        color: #fcfcfc;
+        color: white;
       }
     }
   }
@@ -597,7 +597,7 @@ footer {
   cursor: pointer;
   position: fixed;
   background: var(--button-bg);
-  color: var(--btn-backtotop-color);
+  color: #ff7700;
   height: 2.6em;
   width: 2.7em;
   border-radius: 50%;

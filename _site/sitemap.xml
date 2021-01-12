@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://present4n6.github.io/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/tabs/categories/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/tabs/tags/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/tabs/archives/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/tabs/about/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/posts/MakeGitBlog_add-Comments/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/posts/MakeGitBlog_develop-Env/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/posts/MakeGitBlog/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/tags/githubblog/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/tags/github/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/categories/github/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://present4n6.github.io/categories/githubblog/</loc>
+  <lastmod>2020-09-23T05:58:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

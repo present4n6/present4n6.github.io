@@ -1,0 +1,31 @@
+I"$<h2 id="encase"><strong>EnCase?</strong></h2>
+
+<p>디지털포렌식을 수행할 때 사용하는 툴로 가장 널리 알려진 프로그램 중 하나인 EnCase에 대해서 포스팅을 해보겠습니다. <kbd>EnCase</kbd>는 <code class="language-plaintext highlighter-rouge">OpenText</code>사(구 Guidance Software)에서 제공하는 프로그램입니다. 꽤 오래전부터 디지털포렌식 업무에 사용이 되어왔는데요, EnCase를 사용해서 디지털 증거를 확보하고 미국 법정에서 많이 채택되어  왔기 때문에 공신력 있는 프로그램으로 평가를 받고 있습니다. 요즘은 Magnet Forensics의 AXIOM 등 뛰어난 프로그램들이 많이 있어서 입지가 줄어들긴 했지만요.<br />
+저도 EnCase를 깊게 사용해보지는 않았습니다만 디스크를 분석하는데 유용하게 사용할 수 있으며 EnScript라는 EnCase 프로그래밍 기능을 제공하여 정말 다양한 기능을 사용할 수 있다고 알고 있습니다.</p>
+
+<hr />
+
+<h2 id="gui-개발-환경-구축"><strong>GUI 개발 환경 구축</strong></h2>
+<h3 id="1-pyqt5-pyqt5-designer-설치"><strong>1. PyQt5, PyQt5 Designer 설치</strong></h3>
+
+<ul>
+  <li>PyCharm을 실행한 뒤 메인 화면에서 File -&gt; Settings 탭을 열어 줍니다.</li>
+</ul>
+
+<p><img src="/assets/post/startpyqt5/1.png" alt="upload-image" /></p>
+
+<ul>
+  <li>그리고 Projects 탭의 Python Interpreter를 누르고 하단의 + 버튼을 클릭합니다.</li>
+</ul>
+
+<p><img src="/assets/post/startpyqt5/2.png" alt="upload-image" /></p>
+
+<ul>
+  <li>그러면 아래와 같이 패키지를 설치할 수 있는 창이 열리는데 pyqt5를 검색한 뒤 <strong><code class="language-plaintext highlighter-rouge">PyQt5</code></strong>와 <strong><code class="language-plaintext highlighter-rouge">PyQt5 Designer</code></strong>를 차례대로 설치해주시면 됩니다.</li>
+</ul>
+
+<p><img src="/assets/post/startpyqt5/3.png" alt="upload-image" /></p>
+
+<h3 id="2-pyqt5-designer-맛보기"><strong>2. PyQt5 Designer 맛보기</strong></h3>
+
+:ET

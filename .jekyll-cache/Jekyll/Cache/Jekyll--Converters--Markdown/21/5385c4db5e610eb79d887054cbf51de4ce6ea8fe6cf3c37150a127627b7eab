@@ -1,0 +1,87 @@
+I"�<div id="archives" class="pl-xl-2">
+
+  
+  
+  
+    
+    
+  <span class="lead">2021</span>
+  <ul class="list-unstyled">
+  
+    <li>
+      <div>
+        
+        
+        <span class="date day">13</span>
+        <span class="date month small text-muted">Jan</span>
+        <a href="/posts/EnCase/">EnCase(1) - EnCase에서 케이스 생성하고 증거 파일 추가하기</a>
+      </div>
+    </li>
+  
+
+  
+  
+  
+    <li>
+      <div>
+        
+        
+        <span class="date day">12</span>
+        <span class="date month small text-muted">Jan</span>
+        <a href="/posts/Start_PyQt5/">PyQt5 GUI 프로그래밍(1) - PyCharm에서 PyQt5 설치하기</a>
+      </div>
+    </li>
+  
+  </ul>
+  <span class="lead">2020</span>
+  <ul class="list-unstyled">
+    
+    
+  
+
+  
+  
+  
+    <li>
+      <div>
+        
+        
+        <span class="date day">22</span>
+        <span class="date month small text-muted">Sep</span>
+        <a href="/posts/MakeGitBlog_add_Comments/">GitHub 블로그 만들기(3) - disqus 사용해서 댓글 기능 추가하기</a>
+      </div>
+    </li>
+  
+
+  
+  
+  
+    <li>
+      <div>
+        
+        
+        <span class="date day">21</span>
+        <span class="date month small text-muted">Sep</span>
+        <a href="/posts/MakeGitBlog_develop_Env/">GitHub 블로그 만들기(2) - ruby 사용해서 개발환경 구축하기</a>
+      </div>
+    </li>
+  
+
+  
+  
+  
+    <li>
+      <div>
+        
+        
+        <span class="date day">19</span>
+        <span class="date month small text-muted">Sep</span>
+        <a href="/posts/MakeGitBlog/">GitHub 블로그 만들기(1) - jekyll 사용해서 테마 입히기</a>
+      </div>
+    </li>
+  
+  </ul>
+  
+
+</div>
+:ET

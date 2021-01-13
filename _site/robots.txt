@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow:/ 
+
+Sitemap: https://present4n6.github.io/sitemap.xml

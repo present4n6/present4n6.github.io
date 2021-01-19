@@ -1,5 +1,5 @@
 ---
-title: EnCase(1) - EnCase에서 케이스 생성 후 증거 파일 추가하기
+title: EnCase(1) - 케이스 생성 후 증거 파일 추가하기
 comments: true
 author: Present4n6
 categories: [DigitalForensics,EnCase]

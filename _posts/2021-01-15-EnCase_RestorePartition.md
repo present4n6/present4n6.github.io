@@ -1,5 +1,5 @@
 ---
-title: EnCase(2) - EnCase에서 삭제된 파티션 복구하기
+title: EnCase(2) - 삭제된 파티션 복구하기
 comments: true
 author: Present4n6
 categories: [DigitalForensics,EnCase]

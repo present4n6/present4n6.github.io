@@ -42,5 +42,16 @@ math: true
 
 ![upload-image](/assets/post/EnCase/60.png)  
 
+* 실제 해당 디스크 영역에 값이 있는지 확인해보도록 하겠습니다. **`Unused Disk Area`**에 **`우클릭->Go to File`**을 해줍니다.  
+![upload-image](/assets/post/EnCase/61.png)  
 
-이번 포스팅에서는 키워드 검색을 다뤄봤습니다. 슬랙 영역에 있는 값도 찾아줄 수 있고 검색 결과를 사용자가 보기 편하게 되어 있다는 점이 장점인 것 같습니다.
+* 그리고 찾고자하는 값에서 **`우클릭->Device->Disk View`**를 해줍니다.  
+
+![upload-image](/assets/post/EnCase/62.png)  
+
+* 실제 **`Disk View`**영역에서도 아래 그림과 같이 해당 값을 확인할 수 있습니다.  
+
+![upload-image](/assets/post/EnCase/63.png)  
+
+
+이번 포스팅에서는 EnCase의 키워드 검색을 다뤄봤습니다. 슬랙 영역에 있는 값도 찾아줄 수 있고 검색 결과를 사용자가 보기 편하게 제공해준다는 점이 장점인 것 같습니다.

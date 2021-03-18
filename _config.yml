@@ -199,4 +199,6 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - robots.txt
     - redirects.json
     
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+paginate: 10

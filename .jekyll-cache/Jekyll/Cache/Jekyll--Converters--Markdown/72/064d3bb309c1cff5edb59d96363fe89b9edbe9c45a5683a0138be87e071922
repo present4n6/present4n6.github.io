@@ -1,0 +1,51 @@
+I"�<h2 id="encase에서-hash-구하기"><strong>EnCase에서 Hash 구하기</strong></h2>
+
+<p>이번 포스팅에서는 EnCase에서 제공해주는 기능 중 하나인 <kbd>Condition</kbd>를 사용하는 방법에 대해 알아보도록 하겠습니다.</p>
+
+<h3 id="1-condition"><strong>1. Condition</strong></h3>
+
+<ul>
+  <li>EnCase의 화면 구성에서 하단의 <strong><code class="language-plaintext highlighter-rouge">Filter/EnScript Pane</code></strong>에 보면 <strong><code class="language-plaintext highlighter-rouge">Conditions</code></strong>라는 것이 있습니다. 이는 파일에 대해 조건문을 수행한다고 보면 되겠습니다. 컨디션은 기본적으로 EnCase에서 제공해주는 것이 있고 사용자가 직접 만들어서 사용할 수도 있습니다. 이번 포스팅에서는 사용자가 만드는 방법에 대해 알아보겠습니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/47.png" alt="upload-image" /></p>
+
+<ul>
+  <li>위의 그림에서 <strong><code class="language-plaintext highlighter-rouge">Users</code></strong> 폴더를 선택하고 New를 눌러 새로운 컨디션을 생성해야 합니다. 그러면 아래 그림과 같은 창이 뜨게 되는데 컨디션을 저장할 경로를 지정해주고 <strong><code class="language-plaintext highlighter-rouge">if New</code></strong>를 선택해줍니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/48.png" alt="upload-image" /></p>
+
+<ul>
+  <li>여러가지 목록 중에서 자신이 필요한 기능을 선택합니다. 저는 jpg 파일만 골라서 보는 기능을 만들기 위해 <strong><code class="language-plaintext highlighter-rouge">File Ext</code></strong>를 고르고 연산자는 <strong><code class="language-plaintext highlighter-rouge">Matches</code></strong>로 일치하는 값들만 뽑을 수 있도록 지정하겠습니다. 그리고 <strong><code class="language-plaintext highlighter-rouge">Value</code></strong>에는 jpg라고 입력을 해주었습니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/49.png" alt="upload-image" /></p>
+
+<ul>
+  <li>함수하나를 추가해주면 아래 그림과 같이 적용된 것을 확인할 수 있습니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/50.png" alt="upload-image" /></p>
+
+<ul>
+  <li>또한 <strong><code class="language-plaintext highlighter-rouge">Source Code</code></strong>탭에 가보면 지정해준 함수가 EnScript 형태로 표현이되어 있는 것을 확인할 수 있습니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/51.png" alt="upload-image" /></p>
+
+<ul>
+  <li>생성한 컨디션을 실행하기 위해서는 컨디션의 이름을 더블 클릭하면 됩니다. 그리고 옵션을 지정해주고 OK를 선택하면 됩니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/52.png" alt="upload-image" /></p>
+
+<ul>
+  <li>실행결과는 다음과 같이 JPG 파일만 뽑힌것을 확인할 수 있습니다.</li>
+</ul>
+
+<p><img src="/assets/post/EnCase/53.png" alt="upload-image" /></p>
+
+<p>이번 포스팅에서는 간단하게 EnCase의 <kbd>Condition</kbd>을 생성하고 사용하는 방법에 대해서 간단하게 알아봤습니다. 사용자가 원하는 기능을 간단하게 구현을 할 수 있다는 점에서 상당히 좋은 기능인 것 같습니다.</p>
+
+:ET

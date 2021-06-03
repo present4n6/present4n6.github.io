@@ -1,0 +1,23 @@
+
+
+{
+  "name": "Present4n6",
+  "short_name": "Present4n6",
+  "description": "안녕하세요, 디지털 포렌식 관련 정보 공유 및 기술 블로그입니다.^^ 개념 정리 및 CTF 문제 풀이, CTF 문제 제작 과정, 논문 요약, 디지털 포렌식 이슈 등을 포스팅하고 있습니다.",
+  "icons": [
+    {
+      "src": "/assets/img/favicons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/favicons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display": "fullscreen"
+}
+

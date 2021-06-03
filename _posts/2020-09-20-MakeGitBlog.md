@@ -1,11 +1,9 @@
 ---
 title: GitHub 블로그 만들기(1) - jekyll 사용해서 테마 입히기
-comments: true
 author: Present4n6
 categories: [GitHub, GithubBlog]
 date: 2020-09-20 00:36:00 +0900
 tags: [GitHub,GitHubBlog]
-math: true
 ---
 
 ## **왜 깃허브 블로그인가?**  
